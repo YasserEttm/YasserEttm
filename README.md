@@ -14,7 +14,7 @@ Hi 👋 My name is Yassir Ettoumi
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,angular,figma,c,java,spring,maven,postman,nodejs,npm,nestjs,mysql,postgres,firebase,mongodb,cassandra,selenium,nginx,git,github,gitlab,githubactions,docker,kubernetes,jenkins,linux,aws,ansible,terraform,bash,prometheus,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,angular,figma,c,java,spring,maven,postman,nodejs,npm,nestjs,mysql,postgres,firebase,mongodb,cassandra,selenium,nginx,git,github,gitlab,githubactions,docker,kubernetes,jenkins,linux,aws,ansible,terraform,bash,prometheus,grafana&theme=light))](https://skillicons.dev)
 
 ### Socials
 

@@ -1,8 +1,8 @@
-Hi 👋 My name is Yasser Ettoumi
+Hi 👋 My name is Yassir Ettoumi
 ===============
 
-*   🌍  I'm based in Morocco for now ^^
-*   🖥️  See my repositories at [Still working on it hh](https://github.com/YasserEttm?tab=repositories)
+*   🌍  I'm based in Morocco, for now ! ^^
+*   🖥️  See my repositories at [Repositories](https://github.com/YasserEttm?tab=repositories)
 *   ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/yassir-ettoumi-768704218/)
 *   🧠  I'm a DevOps Engineer
 <!--
@@ -14,7 +14,7 @@ Hi 👋 My name is Yasser Ettoumi
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,vite,react,angular,vuejs,tailwind,figma,codepen,spring,nodejs,nestjs,prisma,mysql,postgres,firebase,mongodb,git,github,githubactions,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,redux,angular,figma,c,java,spring,maven,postman,nodejs,npm,nestjs,mysql,postgres,firebase,mongodb,cassandra,selenium,nginx,git,github,gitlab,githubactions,docker,kubernetes,jenkins,linux,aws,ansible,terraform,bash,prometheus,grafana)](https://skillicons.dev)
 
 ### Socials
 

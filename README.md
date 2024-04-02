@@ -1,10 +1,11 @@
 Hi 👋 My name is Yassir Ettoumi
 ===============
 
+*   🧠  I'm a Software and DevOps Engineer
 *   🌍  I'm based in Morocco, for now ! ^^
 *   🖥️  See my repositories at [Repositories](https://github.com/YasserEttm?tab=repositories)
 *   ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/yassir-ettoumi-768704218/)
-*   🧠  I'm a DevOps Engineer
+
 <!--
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
 -->
